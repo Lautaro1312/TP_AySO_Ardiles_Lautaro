@@ -1,2 +1,2 @@
-# TP_AySO-_Ardiles_Lautaro
+# TP_AySO_Ardiles_Lautaro
 TP 1
